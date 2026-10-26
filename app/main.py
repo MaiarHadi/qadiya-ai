@@ -7,9 +7,15 @@ app = FastAPI(
     version="1.0.0"
 )
 
+from fastapi import FastAPI
+
+from app.routes import crime_scene
+
+app = FastAPI(title="QADIYA AI Service")
+
+app.include_router(crime_scene.router)
+
+
 @app.get("/health")
 def health():
-    return {
-        "status": "ok",
-        "service": "Qadiya AI"
-    }
+    return {"status": "ok"}
