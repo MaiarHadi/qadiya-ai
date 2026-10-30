@@ -1,0 +1,338 @@
+{
+  "paddleocr|none|01_doc_clean": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case."
+  },
+  "paddleocr|none|02_doc_small": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case."
+  },
+  "paddleocr|none|03_report_serif": {
+    "truth": "Police Report No. 4471-B\nDate: March 12, 2026  Time: 23:41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open.\nNo forced entry was observed.",
+    "ocr": "Police Report No. 4471-B\nDate: March 12, 2026 Time: 23:41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open.\nNo forced entry was observed."
+  },
+  "paddleocr|none|04_receipt_mono": {
+    "truth": "CITY MARKET #0193\n12/03/2026      21:58\nWATER 1.5L        2 x 3.50\nBATTERY AA          12.90\nTOTAL               19.90\nCARD ****4417",
+    "ocr": "CITY MARKET #0193\n12/03/2026 21:58\nWATER 1.5L 2 x 3.50\nBATTERY AA 12.90\nTOTAL 19.90\nCARD ****4417"
+  },
+  "paddleocr|none|05_numbers_ids": {
+    "truth": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R",
+    "ocr": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R"
+  },
+  "paddleocr|none|06_dark_noisy_cctv": {
+    "truth": "CAM 03  2026-03-12  22:58:14\nPARKING LEVEL B2",
+    "ocr": "CAM 03 2026-03-12 22:58:14\nPARKING LEVEL B2"
+  },
+  "paddleocr|none|07_low_contrast": {
+    "truth": "Delete the backup after\nthe transfer is complete.",
+    "ocr": "Delete the backup after\nthe transfer is complete"
+  },
+  "paddleocr|none|08_blurred": {
+    "truth": "Meeting moved to Friday 18:30\nBring the keys to locker 27",
+    "ocr": "Meeting moved to Friday 18:30\nBring the keys to locker 27"
+  },
+  "paddleocr|none|09_rotated_photo": {
+    "truth": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15",
+    "ocr": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15"
+  },
+  "paddleocr|none|10_phone_chat": {
+    "truth": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat",
+    "ocr": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat"
+  },
+  "paddleocr|none|11_italic_note": {
+    "truth": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41",
+    "ocr": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41"
+  },
+  "paddleocr|none|12_tiny_plate": {
+    "truth": "KH-7 41",
+    "ocr": "KH-7 41"
+  },
+  "paddleocr|none|13_arabic_doc": {
+    "truth": "تحويل سري\nالمبلغ: 45,000 شيكل\nالتسليم بعد الساعة 22:00\nموقف السيارات - الطابق B2",
+    "ocr": "تحويل سري\nالمبلغ: 45,000 شيكل\nالتسليم بعد الساعة 22:00\nB2 موقف السيارات - الطابق"
+  },
+  "paddleocr|none|14_arabic_chat": {
+    "truth": "ليلى: هل نقلته؟\nطارق: نعم، الساعة 10 مساءً",
+    "ocr": "ليلى: هل نقلته؟\nطارق: نعم، الساعة 10 مساءَ"
+  },
+  "paddleocr|none|15_game_transfer_notes": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.\nCamera backup is on the drive. Delete it after the transfer.\n- M.",
+    "ocr": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.\nCamera backup is on the drive. Delete it after the transfer.\n- M."
+  },
+  "paddleocr|none|22_carved_clear": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "K.M 21:30\n12.03.26"
+  },
+  "paddleocr|none|23_carved_shallow": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "K.M 21:30\n12.03.26"
+  },
+  "paddleocr|none|24_carved_knife_angled": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "LOCKER 27\nCODE 4819"
+  },
+  "paddleocr|none|25_carved_dark": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "LOCKER 27\nCODE 4819"
+  },
+  "paddleocr|none|26_carved_side_light_blur": {
+    "truth": "B2  23:00",
+    "ocr": "B2 23:00"
+  },
+  "paddleocr|none|27_carved_arabic": {
+    "truth": "ليلى 22:00",
+    "ocr": "ليلى 22:00"
+  },
+  "paddleocr|enhance|01_doc_clean": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case."
+  },
+  "paddleocr|enhance|02_doc_small": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case."
+  },
+  "paddleocr|enhance|03_report_serif": {
+    "truth": "Police Report No. 4471-B\nDate: March 12, 2026  Time: 23:41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open.\nNo forced entry was observed.",
+    "ocr": "Police Report No. 4471-B\nDate: March 12, 2026 Time: 23:41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open.\nNo forced entry was observed."
+  },
+  "paddleocr|enhance|04_receipt_mono": {
+    "truth": "CITY MARKET #0193\n12/03/2026      21:58\nWATER 1.5L        2 x 3.50\nBATTERY AA          12.90\nTOTAL               19.90\nCARD ****4417",
+    "ocr": "CITY MARKET #0193\n12/03/2026 21:58\nWATER 1.5L 2 x 3.50\nBATTERY AA 12.90\nTOTAL 19.90\nCARD ****4417"
+  },
+  "paddleocr|enhance|05_numbers_ids": {
+    "truth": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R",
+    "ocr": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R"
+  },
+  "paddleocr|enhance|06_dark_noisy_cctv": {
+    "truth": "CAM 03  2026-03-12  22:58:14\nPARKING LEVEL B2",
+    "ocr": "CAM 03 2026-03-12 22:58:14\nPARKING LEVEL B2"
+  },
+  "paddleocr|enhance|07_low_contrast": {
+    "truth": "Delete the backup after\nthe transfer is complete.",
+    "ocr": "Delete the backup after\nthe transfer is complete"
+  },
+  "paddleocr|enhance|08_blurred": {
+    "truth": "Meeting moved to Friday 18:30\nBring the keys to locker 27",
+    "ocr": "Meeting moved to Friday 18:30\nBring the keys to locker 27"
+  },
+  "paddleocr|enhance|09_rotated_photo": {
+    "truth": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15",
+    "ocr": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15"
+  },
+  "paddleocr|enhance|10_phone_chat": {
+    "truth": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat",
+    "ocr": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat"
+  },
+  "paddleocr|enhance|11_italic_note": {
+    "truth": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41",
+    "ocr": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41"
+  },
+  "paddleocr|enhance|12_tiny_plate": {
+    "truth": "KH-7 41",
+    "ocr": "KH-741"
+  },
+  "paddleocr|enhance|13_arabic_doc": {
+    "truth": "تحويل سري\nالمبلغ: 45,000 شيكل\nالتسليم بعد الساعة 22:00\nموقف السيارات - الطابق B2",
+    "ocr": "تحويل سري\nالمبلغ:45,000 شيكل\nالتسليم بعد ا الساعة 22:00\nموقف السيارات - B2الطابق"
+  },
+  "paddleocr|enhance|14_arabic_chat": {
+    "truth": "ليلى: هل نقلته؟\nطارق: نعم، الساعة 10 مساءً",
+    "ocr": "لیلى: هل نقلته؟\nطارق: نعم، الساعة 10 مساءًَ"
+  },
+  "paddleocr|enhance|15_game_transfer_notes": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.\nCamera backup is on the drive. Delete it after the transfer.\n- M.",
+    "ocr": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.\nCamera backup is on the drive. Delete it after the transfer.\n-M."
+  },
+  "paddleocr|enhance|22_carved_clear": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "K.M 21:30\n12.03.26"
+  },
+  "paddleocr|enhance|23_carved_shallow": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "K.M 21:30\n12.03.26"
+  },
+  "paddleocr|enhance|24_carved_knife_angled": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "LOCKER 27\nCODE 4819"
+  },
+  "paddleocr|enhance|25_carved_dark": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "LOCKER 27\nCODE 4819"
+  },
+  "paddleocr|enhance|26_carved_side_light_blur": {
+    "truth": "B2  23:00",
+    "ocr": "B2 23:00"
+  },
+  "paddleocr|enhance|27_carved_arabic": {
+    "truth": "ليلى 22:00",
+    "ocr": "ليلى 22:00"
+  },
+  "easyocr|none|01_doc_clean": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER CONFIDENTIAL\nTo: R Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case."
+  },
+  "easyocr|none|02_doc_small": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00 not before_\nMeet at parking level B2.\nBring the case_"
+  },
+  "easyocr|none|03_report_serif": {
+    "truth": "Police Report No. 4471-B\nDate: March 12, 2026  Time: 23:41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open.\nNo forced entry was observed.",
+    "ocr": "Police Report No. 4471-B\nDate: March 12, 2026  Time: 23.41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open_\nNo forced entry was observed:"
+  },
+  "easyocr|none|04_receipt_mono": {
+    "truth": "CITY MARKET #0193\n12/03/2026      21:58\nWATER 1.5L        2 x 3.50\nBATTERY AA          12.90\nTOTAL               19.90\nCARD ****4417",
+    "ocr": "CITY MARKET #0193\n12/03/2026 21:58\nWATER 1.5L 2 X 3.50\nBATTERY AA 12 .90\nTOTAL 19.90\nCARD ****4417"
+  },
+  "easyocr|none|05_numbers_ids": {
+    "truth": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R",
+    "ocr": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B Floor 12\nCode: X7Q-2ZR"
+  },
+  "easyocr|none|06_dark_noisy_cctv": {
+    "truth": "CAM 03  2026-03-12  22:58:14\nPARKING LEVEL B2",
+    "ocr": "CAM 03 2026-03-12 22:58:14\nPARKING LEVEL B2"
+  },
+  "easyocr|none|07_low_contrast": {
+    "truth": "Delete the backup after\nthe transfer is complete.",
+    "ocr": "Delete the backup after\nthe transfer is complete."
+  },
+  "easyocr|none|08_blurred": {
+    "truth": "Meeting moved to Friday 18:30\nBring the keys to locker 27",
+    "ocr": "Meeting moved t0 friday 18,30\nBring the keys t0 locker 27"
+  },
+  "easyocr|none|09_rotated_photo": {
+    "truth": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15",
+    "ocr": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15"
+  },
+  "easyocr|none|10_phone_chat": {
+    "truth": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat",
+    "ocr": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat"
+  },
+  "easyocr|none|11_italic_note": {
+    "truth": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41",
+    "ocr": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41"
+  },
+  "easyocr|none|12_tiny_plate": {
+    "truth": "KH-7 41",
+    "ocr": "KH-7 41"
+  },
+  "easyocr|none|13_arabic_doc": {
+    "truth": "تحويل سري\nالمبلغ: 45,000 شيكل\nالتسليم بعد الساعة 22:00\nموقف السيارات - الطابق B2",
+    "ocr": "تحويل سري\nالمبلغ : 45,000 شيكل\nالتسليم بعد الساعة 22:00\nموقف السيارات الطابق 82"
+  },
+  "easyocr|none|14_arabic_chat": {
+    "truth": "ليلى: هل نقلته؟\nطارق: نعم، الساعة 10 مساءً",
+    "ocr": "ليلى : هل نقلته؟\nطارق : نعم, الساعة 10 مساءً"
+  },
+  "easyocr|none|15_game_transfer_notes": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.\nCamera backup is on the drive. Delete it after the transfer.\n- M.",
+    "ocr": "TRANSFER CONFIDENTIAL\nTo: R Haddad\nAmount: 45,000 (acct: ending 2210)\nRelease on 12/03 after 22.00,not before\nMeet at parking level B2.\nBring the case_\nCamera backup is on the drive. Delete it after the transfer:\nM"
+  },
+  "easyocr|none|22_carved_clear": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "KaM 21530\n12.03,26"
+  },
+  "easyocr|none|23_carved_shallow": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "Yj] 21530\n12503,226"
+  },
+  "easyocr|none|24_carved_knife_angled": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "LOCKER 27\nCODE 4819"
+  },
+  "easyocr|none|25_carved_dark": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "[LOCIEF 27\nCopf 48161"
+  },
+  "easyocr|none|26_carved_side_light_blur": {
+    "truth": "B2  23:00",
+    "ocr": "B2 23,00"
+  },
+  "easyocr|none|27_carved_arabic": {
+    "truth": "ليلى 22:00",
+    "ocr": "ليلى 22:00"
+  },
+  "easyocr|enhance|01_doc_clean": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER CONFIDENTIAL\nTo: R Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case."
+  },
+  "easyocr|enhance|02_doc_small": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "ocr": "TRANSFER CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case:"
+  },
+  "easyocr|enhance|03_report_serif": {
+    "truth": "Police Report No. 4471-B\nDate: March 12, 2026  Time: 23:41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open.\nNo forced entry was observed.",
+    "ocr": "Police Report No. 4471-B\nDate: March 12, 2026 Time: 23.41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open:\nNo forced entry was observed:"
+  },
+  "easyocr|enhance|04_receipt_mono": {
+    "truth": "CITY MARKET #0193\n12/03/2026      21:58\nWATER 1.5L        2 x 3.50\nBATTERY AA          12.90\nTOTAL               19.90\nCARD ****4417",
+    "ocr": "CITY MARKET #0193\n12/03/2026 21:58\nWATER 1.5L 2 X 3.50\nBATTERY AA 12.90\nTOTAL 19.90\nCARD ****4417"
+  },
+  "easyocr|enhance|05_numbers_ids": {
+    "truth": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R",
+    "ocr": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R"
+  },
+  "easyocr|enhance|06_dark_noisy_cctv": {
+    "truth": "CAM 03  2026-03-12  22:58:14\nPARKING LEVEL B2",
+    "ocr": "CAM 03 2026 03-12 22:58,14\nPARKING LEVEL B2"
+  },
+  "easyocr|enhance|07_low_contrast": {
+    "truth": "Delete the backup after\nthe transfer is complete.",
+    "ocr": "Delete te askun) altel\nthe(ranister is complets;\nMeran;"
+  },
+  "easyocr|enhance|08_blurred": {
+    "truth": "Meeting moved to Friday 18:30\nBring the keys to locker 27",
+    "ocr": "Mcetig moved t0 frdey 18 J0\nBring the keys t0 Iocter 27"
+  },
+  "easyocr|enhance|09_rotated_photo": {
+    "truth": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15",
+    "ocr": "Evidence bag #12\nCollected by: A, Nasser\nSealed 13/03 01.15"
+  },
+  "easyocr|enhance|10_phone_chat": {
+    "truth": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat",
+    "ocr": "Layla: did you move it?\nTariq: yes, B2 at 22.00\nLayla: delete this chat"
+  },
+  "easyocr|enhance|11_italic_note": {
+    "truth": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41",
+    "ocr": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41"
+  },
+  "easyocr|enhance|12_tiny_plate": {
+    "truth": "KH-7 41",
+    "ocr": "KH-7 41"
+  },
+  "easyocr|enhance|13_arabic_doc": {
+    "truth": "تحويل سري\nالمبلغ: 45,000 شيكل\nالتسليم بعد الساعة 22:00\nموقف السيارات - الطابق B2",
+    "ocr": "تحويل سري\nالمبلغ : 45,000 شيكل\nالتسليم بعد الساعة 22:00\nموقف السيارات الطابق 82"
+  },
+  "easyocr|enhance|14_arabic_chat": {
+    "truth": "ليلى: هل نقلته؟\nطارق: نعم، الساعة 10 مساءً",
+    "ocr": "ليلى : هل نقلته ؟\nطارق : نعم, الساعة 10 مساءً"
+  },
+  "easyocr|enhance|15_game_transfer_notes": {
+    "truth": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.\nCamera backup is on the drive. Delete it after the transfer.\n- M.",
+    "ocr": "TRANSFER CONFIDENTIAL\nTo: R: Haddad\nAmount: 45,000 (acct: ending 2210)\nRelease on 12/03 after 22:00,not before:\nMeet at parking level B2.\nBring the case_\nCamera backup is on the drivve. Delete it after the transfer:\nM"
+  },
+  "easyocr|enhance|22_carved_clear": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "KaM 21930\n12.03.26"
+  },
+  "easyocr|enhance|23_carved_shallow": {
+    "truth": "K.M  21:30\n12.03.26",
+    "ocr": "KM 21,30\n12.03.26"
+  },
+  "easyocr|enhance|24_carved_knife_angled": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "LOCKER 27\nCODE 4819"
+  },
+  "easyocr|enhance|25_carved_dark": {
+    "truth": "LOCKER 27\nCODE 4819",
+    "ocr": "LOCKEF 27\nCODE 481161"
+  },
+  "easyocr|enhance|26_carved_side_light_blur": {
+    "truth": "B2  23:00",
+    "ocr": "B2 23500"
+  },
+  "easyocr|enhance|27_carved_arabic": {
+    "truth": "ليلى 22:00",
+    "ocr": "ليلى 22:00"
+  }
+}

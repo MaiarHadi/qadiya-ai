@@ -1,0 +1,7 @@
+# Only for the OCR comparison (O.1). Big downloads (PyTorch for EasyOCR, PaddlePaddle for PaddleOCR).
+# Install one line at a time so a failure in one engine does not block the other:
+#   pip install easyocr
+#   pip install paddlepaddle paddleocr
+easyocr>=1.7
+paddlepaddle>=3.0
+paddleocr>=3.0

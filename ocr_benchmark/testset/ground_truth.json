@@ -1,0 +1,272 @@
+[
+  {
+    "id": "01_doc_clean",
+    "file": "images/01_doc_clean.png",
+    "lang": "en",
+    "category": "document",
+    "note": "Clean typed memo (easy baseline)",
+    "text": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "keys": [
+      "2210",
+      "22:00",
+      "B2",
+      "R. Haddad"
+    ]
+  },
+  {
+    "id": "02_doc_small",
+    "file": "images/02_doc_small.png",
+    "lang": "en",
+    "category": "document",
+    "note": "Same memo, very small font",
+    "text": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.",
+    "keys": [
+      "2210",
+      "22:00",
+      "B2"
+    ]
+  },
+  {
+    "id": "03_report_serif",
+    "file": "images/03_report_serif.png",
+    "lang": "en",
+    "category": "document",
+    "note": "Serif font, official report",
+    "text": "Police Report No. 4471-B\nDate: March 12, 2026  Time: 23:41\nOfficer: Lt. Samir Odeh\nWitness states the door was already open.\nNo forced entry was observed.",
+    "keys": [
+      "4471-B",
+      "23:41",
+      "Samir Odeh"
+    ]
+  },
+  {
+    "id": "04_receipt_mono",
+    "file": "images/04_receipt_mono.png",
+    "lang": "en",
+    "category": "numbers",
+    "note": "Receipt: monospace, numbers, prices",
+    "text": "CITY MARKET #0193\n12/03/2026      21:58\nWATER 1.5L        2 x 3.50\nBATTERY AA          12.90\nTOTAL               19.90\nCARD ****4417",
+    "keys": [
+      "0193",
+      "21:58",
+      "19.90",
+      "4417"
+    ]
+  },
+  {
+    "id": "05_numbers_ids",
+    "file": "images/05_numbers_ids.png",
+    "lang": "en",
+    "category": "numbers",
+    "note": "Phone, plate, ID numbers, codes",
+    "text": "Phone: 059-884-2217\nPlate: KH-7 41\nID: 401 556 982\nRoom 3B - Floor 12\nCode: X7Q-22R",
+    "keys": [
+      "059-884-2217",
+      "KH-7 41",
+      "401 556 982",
+      "X7Q-22R"
+    ]
+  },
+  {
+    "id": "06_dark_noisy_cctv",
+    "file": "images/06_dark_noisy_cctv.png",
+    "lang": "en",
+    "category": "hard",
+    "note": "CCTV overlay: dark + heavy noise",
+    "text": "CAM 03  2026-03-12  22:58:14\nPARKING LEVEL B2",
+    "keys": [
+      "CAM 03",
+      "22:58:14",
+      "B2"
+    ]
+  },
+  {
+    "id": "07_low_contrast",
+    "file": "images/07_low_contrast.png",
+    "lang": "en",
+    "category": "hard",
+    "note": "Faded grey text on grey paper",
+    "text": "Delete the backup after\nthe transfer is complete.",
+    "keys": [
+      "backup",
+      "transfer"
+    ]
+  },
+  {
+    "id": "08_blurred",
+    "file": "images/08_blurred.png",
+    "lang": "en",
+    "category": "hard",
+    "note": "Out-of-focus photo of a note",
+    "text": "Meeting moved to Friday 18:30\nBring the keys to locker 27",
+    "keys": [
+      "18:30",
+      "27"
+    ]
+  },
+  {
+    "id": "09_rotated_photo",
+    "file": "images/09_rotated_photo.png",
+    "lang": "en",
+    "category": "hard",
+    "note": "Label photographed at an angle (7 degrees)",
+    "text": "Evidence bag #12\nCollected by: A. Nasser\nSealed 13/03 01:15",
+    "keys": [
+      "#12",
+      "A. Nasser",
+      "01:15"
+    ]
+  },
+  {
+    "id": "10_phone_chat",
+    "file": "images/10_phone_chat.png",
+    "lang": "en",
+    "category": "screen",
+    "note": "Phone screenshot: light text on dark",
+    "text": "Layla: did you move it?\nTariq: yes, B2 at 22:00\nLayla: delete this chat",
+    "keys": [
+      "B2",
+      "22:00",
+      "delete"
+    ]
+  },
+  {
+    "id": "11_italic_note",
+    "file": "images/11_italic_note.png",
+    "lang": "en",
+    "category": "document",
+    "note": "Slanted (italic) note on yellow paper",
+    "text": "call M. before midnight\nthe car is a grey Kia\nplate ends in 41",
+    "keys": [
+      "midnight",
+      "Kia",
+      "41"
+    ]
+  },
+  {
+    "id": "12_tiny_plate",
+    "file": "images/12_tiny_plate.png",
+    "lang": "en",
+    "category": "hard",
+    "note": "Tiny dark plate (130x38 px) - needs Enhance first",
+    "text": "KH-7 41",
+    "keys": [
+      "KH-7 41"
+    ]
+  },
+  {
+    "id": "13_arabic_doc",
+    "file": "images/13_arabic_doc.png",
+    "lang": "ar",
+    "category": "arabic",
+    "note": "Arabic typed note (right to left)",
+    "text": "تحويل سري\nالمبلغ: 45,000 شيكل\nالتسليم بعد الساعة 22:00\nموقف السيارات - الطابق B2",
+    "keys": [
+      "45,000",
+      "22:00",
+      "B2",
+      "سري"
+    ]
+  },
+  {
+    "id": "14_arabic_chat",
+    "file": "images/14_arabic_chat.png",
+    "lang": "ar",
+    "category": "arabic",
+    "note": "Arabic chat screenshot",
+    "text": "ليلى: هل نقلته؟\nطارق: نعم، الساعة 10 مساءً",
+    "keys": [
+      "ليلى",
+      "طارق",
+      "10"
+    ]
+  },
+  {
+    "id": "15_game_transfer_notes",
+    "file": "images/15_game_transfer_notes.png",
+    "lang": "en",
+    "category": "game",
+    "note": "Real file from the USB test case",
+    "text": "TRANSFER - CONFIDENTIAL\nTo: R. Haddad\nAmount: 45,000 (acct. ending 2210)\nRelease on 12/03 after 22:00, not before.\nMeet at parking level B2.\nBring the case.\nCamera backup is on the drive. Delete it after the transfer.\n- M.",
+    "keys": [
+      "2210",
+      "22:00",
+      "B2",
+      "Camera backup"
+    ]
+  },
+  {
+    "id": "22_carved_clear",
+    "file": "images/22_carved_clear.png",
+    "lang": "en",
+    "category": "carved",
+    "note": "Deep carving on a table, good light",
+    "text": "K.M  21:30\n12.03.26",
+    "keys": [
+      "K.M",
+      "21:30",
+      "12.03.26"
+    ]
+  },
+  {
+    "id": "23_carved_shallow",
+    "file": "images/23_carved_shallow.png",
+    "lang": "en",
+    "category": "carved",
+    "note": "Shallow/faint carving (barely visible)",
+    "text": "K.M  21:30\n12.03.26",
+    "keys": [
+      "K.M",
+      "21:30",
+      "12.03.26"
+    ]
+  },
+  {
+    "id": "24_carved_knife_angled",
+    "file": "images/24_carved_knife_angled.png",
+    "lang": "en",
+    "category": "carved",
+    "note": "Rough knife scratches, photo taken at an angle",
+    "text": "LOCKER 27\nCODE 4819",
+    "keys": [
+      "27",
+      "4819"
+    ]
+  },
+  {
+    "id": "25_carved_dark",
+    "file": "images/25_carved_dark.png",
+    "lang": "en",
+    "category": "carved",
+    "note": "Carving photographed at night (dark + noise)",
+    "text": "LOCKER 27\nCODE 4819",
+    "keys": [
+      "27",
+      "4819"
+    ]
+  },
+  {
+    "id": "26_carved_side_light_blur",
+    "file": "images/26_carved_side_light_blur.png",
+    "lang": "en",
+    "category": "carved",
+    "note": "Light from the side + out of focus",
+    "text": "B2  23:00",
+    "keys": [
+      "B2",
+      "23:00"
+    ]
+  },
+  {
+    "id": "27_carved_arabic",
+    "file": "images/27_carved_arabic.png",
+    "lang": "ar",
+    "category": "carved",
+    "note": "Arabic name + time carved into wood",
+    "text": "ليلى 22:00",
+    "keys": [
+      "ليلى",
+      "22:00"
+    ]
+  }
+]

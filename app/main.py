@@ -9,11 +9,13 @@ app = FastAPI(
 
 from fastapi import FastAPI
 
-from app.routes import crime_scene
+from app.routes import crime_scene, image
 
 app = FastAPI(title="QADIYA AI Service")
 
 app.include_router(crime_scene.router)
+
+app.include_router(image.router)
 
 
 @app.get("/health")
